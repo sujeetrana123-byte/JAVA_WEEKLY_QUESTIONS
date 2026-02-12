@@ -8,4 +8,8 @@ QUETION 2 SOLN
 QUESTION 3 SOLN
 ![OUTPUT]<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/5a129298-626c-4625-afe3-67ff4c37476a" />
 
+QUETION 4 SOLN
+![OUTPUT]<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/6fc676e8-88bf-4d6d-a920-4deb1b604724" />
+
+
 

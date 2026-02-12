@@ -17,6 +17,10 @@ QUESTION 5 SOLN
 QUESTION 6 SOLN
 ![OUTPUT]<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/44df0da2-dd80-4f98-baf1-013da92b7559" />
 
+QUESTION 7 SOLN
+![OUTPUT]<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/c28778df-5c5c-4f26-a7b2-2788c5651476" />
+
+
 
 
 

@@ -11,5 +11,9 @@ QUESTION 3 SOLN
 QUETION 4 SOLN
 ![OUTPUT]<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/6fc676e8-88bf-4d6d-a920-4deb1b604724" />
 
+QUESTION 5 SOLN
+![OUTPUT]<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/0923aac3-27c0-4131-90db-6d634c6b00dd" />
+
+
 
 

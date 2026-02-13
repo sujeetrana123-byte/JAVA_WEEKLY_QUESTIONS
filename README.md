@@ -26,6 +26,10 @@ QUESTION 8 SOLN
 QUESTION 9 SOLN
 ![OUTPUT]<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/e742c5e0-3c14-4563-a76c-e38c81ac2492" />
 
+QUESTION 10 SOLN
+![OUTPUT]<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/fdbfd81b-cfcc-439c-9b7b-e7edd9403300" />
+
+
 
 
 

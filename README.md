@@ -21,7 +21,8 @@ QUESTION 7 SOLN
 ![OUTPUT]<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/c28778df-5c5c-4f26-a7b2-2788c5651476" />
 
 QUESTION 8 SOLN
-![OUTPUT]<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/ffd309ff-d2a4-48de-aae8-0f6611ee5b21" />
+![OUTPUT]<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/0fce65e9-1770-4790-9458-797ce9de0359" />
+
 
 
 

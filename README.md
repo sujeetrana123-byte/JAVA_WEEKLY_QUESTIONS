@@ -1,4 +1,5 @@
-# JAVA_WEEKLY_QUESTIONS
+# JAVA_WEEKLY_QUESTIONS(1st week)
+
 QUETION 1 SOLN
 ![OUTPUT]<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/94524df9-6849-48e8-8c99-b77b69181786" />
 
@@ -28,6 +29,8 @@ QUESTION 9 SOLN
 
 QUESTION 10 SOLN
 ![OUTPUT]<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/fdbfd81b-cfcc-439c-9b7b-e7edd9403300" />
+
+# JAVA_WEEKLY_QUESTIONS(2nd week)
 
 
 
